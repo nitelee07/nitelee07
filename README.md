@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on multiple FNF Mods that I own and manage, currently in the works are FNF Vs SDN Cadence & FNF Vs John Refreshed.
-- 🧑‍💻 Coding languages that I wanna learn are C#, GDScript and GML (GameMaker Language)
+- 🧑‍💻 Coding languages that I wanna learn at some point: C#, GDScript and GML (GameMaker Language)
 - 🌱 I’m currently learning IT @ VIKK + Game Development on many platforms (i.e. Unity, UE4, Godot & GameMaker) in my free time.
 - 🎨 My hobbies consist of: Drawing, Animating, Making music, Coding, Learning 3D modelling, and playing video games.
 - ⚡ Fun fact: I love games, movies, shows, and any other sort of media, as it improves my fantasising ability for creativity. But mostly I just love 'em ❤️😊
