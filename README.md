@@ -11,9 +11,9 @@
 ## 🛠️ Tools & Coding languages 
 - 💻 Coding languages that I know to some degree: Python, a little bit of Haxe/Flixel & Lua.
 - 🧰 Tools that I use:
-- - Ableton Live 12 Suite & FL Studio 21 (for making music);
-- - Clip Studio Paint & Adobe Fresco (for drawing), Adobe Animate 2022 (for animation);
-- - Visual Studio Code (for coding);
+  - Ableton Live 12 Suite & FL Studio 21 (for making music);
+  - Clip Studio Paint & Adobe Fresco (for drawing), Adobe Animate 2022 (for animation);
+  - Visual Studio Code (for coding);
 
 <!---
 RJGaming-coder/RJGaming-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
